@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prize
 - 👀 I’m interested in programming and software development
 - 🌱 I’m currently learning Information system and Technology
-- 💞️ I’m looking to collaborate on software development, cyber security and mobile application software
+- 💞️ I’m looking to collaborate with you on software development, cyber security and mobile application software
 - 📫 You can reach me through my email: neversonprize@gmail.com
 
 <!---
